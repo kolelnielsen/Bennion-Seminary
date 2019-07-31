@@ -1,0 +1,40 @@
+@media screen and (max-width: 900px) {
+    .image-intro {
+        display: none;
+    }
+    #rdh_quote {
+        text-align: center;
+    }
+    .gla-intro {
+
+    }
+    .center-justified {
+
+    }
+    .gla {
+        width: 18em;
+        margin: 0px auto;
+        
+    }
+    .headings {
+
+    }
+    #center-justified {
+
+    }
+    .image {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .image-intro {
+        display: none;
+    }
+
+
+
+
+}

@@ -1,0 +1,32 @@
+@media screen and (max-width: 900px) {
+#center-justified {
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    }
+.grid-container {
+    width: 100%;
+    margin: 0 auto;
+    grid-template-columns: auto auto;    
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+    #center-justified {
+        width: 100%;
+        margin: auto;
+        padding-left: 10px;
+        padding-right: 40px;
+        
+    }
+    .grid-container {
+        width: 100%;
+        margin: 0 auto;
+        grid-template-columns: auto;
+        
+    }
+}

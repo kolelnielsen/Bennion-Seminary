@@ -1,0 +1,43 @@
+@media screen and (max-width: 900px) {
+    #welcome {
+        font-size: 100%;
+        margin: auto;
+    }
+    .family {
+        width: 100%;
+        font-size: 100%;
+        margin: auto;
+    }
+    .about {
+        font-size: 100%;
+        margin: auto;
+    }
+    .center-justified {
+        font-size: 100%;
+        margin: auto;
+    }
+}
+
+
+
+@media screen and (max-width: 600px) {
+    #welcome {
+        font-size: 100%;
+        margin: auto;
+    }
+    .family {
+        font-size: 100%;
+        margin: auto;
+    }
+    .about {
+        width: 100%;
+        font-size: 100%;
+        margin: auto;
+    }
+    .center-justified {
+        font-size: 100%;
+        margin: auto;
+    }
+
+
+}
