@@ -2,6 +2,9 @@
     .image-intro {
         display: none;
     }
+    .header {
+        font-size: 90%;
+    }
     #rdh_quote {
         text-align: center;
         max-width: 100%;
@@ -44,14 +47,19 @@
     .image {
         max-width: 100%;
         margin: 0 auto;
+        height: auto;
+
     }
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 620px) {
     .image-intro {
         display: none;
     }
+    .header {
+        font-size: 75%;
+    }
     #rdh_quote {
         text-align: center;
         max-width: 100%;
@@ -95,3 +103,4 @@
         margin: 0 auto;
     }
 }
+
