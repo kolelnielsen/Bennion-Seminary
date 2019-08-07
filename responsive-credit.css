@@ -17,7 +17,8 @@
         max-width: 100%;
         padding-left: 5px;
         padding-right: 5px;
-
+        padding: 35px;
+        display: inherit;
     }
     .ctr {
         max-width: 100%;
@@ -49,6 +50,7 @@
         float: none;
         font-size: 100%;
         width: 18em;
+        display: inherit;
     }
     .center-justified {
         width: 18em;
